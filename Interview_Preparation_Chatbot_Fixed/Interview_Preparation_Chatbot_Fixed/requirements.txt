@@ -1,0 +1,9 @@
+streamlit>=1.37
+mysql-connector-python>=8.4
+bcrypt>=4.1
+scikit-learn>=1.4
+PyPDF2>=3.0
+SpeechRecognition>=3.10
+pandas>=2.2
+matplotlib>=3.8
+tomli>=2.0; python_version < '3.11'
